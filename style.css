@@ -1,0 +1,18 @@
+.first{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+.second{
+    background-color: white;
+    color: blue;
+    text-align: center;
+}
+.third{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+.code{
+    background-color: purple;
+}
